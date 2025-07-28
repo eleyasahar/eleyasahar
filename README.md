@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eleyasahar
-- 👀 I’m interested in coadin 
+- 👀 I’m interested in coading
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on freelencer 
 - 📫 How to reach me 
