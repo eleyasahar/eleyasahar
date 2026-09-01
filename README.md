@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eleyasahar
 - 👀 I’m interested in coading
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on freelencer 
 - 📫 How to reach me 
 - 😄 Pronouns: eleya 
